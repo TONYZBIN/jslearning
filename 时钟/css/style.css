@@ -1,0 +1,21 @@
+		 *{
+		    margin: 0px;
+		    padding: 0px;	
+		    font-family: arial,"微软雅黑";
+		    font-size:20px;
+		 }
+
+		 body{
+		 	background-color: #dedede;
+		 }
+
+		 #content{
+		 	position: fixed;
+		 	left: 50%;
+		 	top:50%;
+		 	transform: translate(-50%,-50%);
+		 }
+
+		 #clock{
+		 	font-size: 100px;
+		 }
