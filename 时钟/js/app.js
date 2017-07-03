@@ -55,8 +55,8 @@ function Clock(clockId,city,offset){
 
 }
 
-Clock.version = "1.01";
-Clock.author = "joeyang";
+Clock.version = "1.0";
+Clock.author = "guo";
 
 //把时钟所自带的Date对象的数据显示出来
 Clock.prototype = {
